@@ -1,0 +1,53 @@
+#cabecera{
+    background-color:lightcyan;
+    font-style: oblique;
+    font-weight: 1000;
+    margin: 100px
+}
+
+.destacado{
+    background-color: rgb(185, 248, 220);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    width: 200px;
+}
+
+.wenapo{
+    color:rgb(92, 80, 139);
+    font-size: 55px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 40px
+}
+
+.parrafo{
+    position: relative;
+    left: 200px;
+    right: 200px;
+}
+
+.parr{
+    position: absolute;
+    left: 88px;
+    bottom: -792px;
+    width: 20px;
+    color:rgb(84, 165, 90)
+    
+}
+
+nav ul{
+    background-color: lavender;
+    text-decoration: dotted;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    padding: 20px;
+    border-color:100px dotted rgb(26, 24, 27);
+}
+
+div img{
+    padding: 10px;
+    margin-top: 30px;
+    background-color: rgb(234, 169, 235);
+}
+
+div{
+    margin: 10px 80px 50px;
+}
